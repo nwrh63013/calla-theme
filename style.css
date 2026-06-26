@@ -26,3 +26,13 @@ button {
  cursor: pointer;
  font-size: 18px;
 }
+img {
+ width: 100%;
+ max-width: 900px;
+ border-radius: 15px;
+ margin-top: 20px;
+}
+
+button:hover {
+ opacity: 0.9;
+}
