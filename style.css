@@ -57,3 +57,14 @@ div {
   max-width: 300px;
   border-radius: 10px;
 }
+nav {
+ background: white;
+ padding: 15px;
+}
+
+nav a {
+ text-decoration: none;
+ color: black;
+ margin: 0 15px;
+ font-weight: bold;
+}
