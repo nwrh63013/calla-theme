@@ -194,3 +194,13 @@ button:hover {
    border-radius: 50%;
    margin-bottom: 20px;
 }
+.social {
+   margin-bottom: 15px;
+}
+
+.social a {
+   color: white;
+   text-decoration: none;
+   margin: 0 10px;
+   font-weight: bold;
+}
