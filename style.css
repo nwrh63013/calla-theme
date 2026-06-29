@@ -153,3 +153,26 @@ button {
 button:hover {
    opacity: 0.9;
 }
+.hero {
+   background: linear-gradient(rgba(0,0,0,0.5),
+   rgba(0,0,0,0.5)),
+   url('https://images.unsplash.com/photo-1541643600914-78b084683601?w=1200');
+
+   background-size: cover;
+   background-position: center;
+
+   color: white;
+   text-align: center;
+
+   padding: 120px 20px;
+}
+
+.hero h1 {
+   font-size: 50px;
+   margin-bottom: 15px;
+}
+
+.hero p {
+   font-size: 22px;
+   margin-bottom: 25px;
+}
