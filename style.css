@@ -176,3 +176,12 @@ button:hover {
    font-size: 22px;
    margin-bottom: 25px;
 }
+.offers {
+   background: #fff;
+   padding: 40px 20px;
+   margin: 40px 0;
+}
+
+.offers h2 {
+   margin-bottom: 20px;
+}
